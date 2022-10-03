@@ -8,6 +8,9 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
+
+<p><a href="https://thefreerobux.com/">Get Free Robux!</a></p>
+
       </Head>
 
       <main>
@@ -16,6 +19,8 @@ export default function Home() {
           Get Free Robux by playing mobile game in www.thefreerobux.com
         </p>
       </main>
+
+
 
       <Footer />
     </div>
