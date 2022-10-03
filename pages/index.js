@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to thefreerobux.com!" />
         <p className="description">
-          Get Free Robux by playing mobile game in www.thefreerobux.com <code>pages/index.js</code>
+          Get Free Robux by playing mobile game in www.thefreerobux.com
         </p>
       </main>
 
