@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to thefreerobux.com!" />
         <p className="description">
           Get Free Robux by playing mobile game in www.thefreerobux.com <code>pages/index.js</code>
         </p>
