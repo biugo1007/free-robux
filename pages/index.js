@@ -8,6 +8,13 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
+
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+
       </Head>
 
       <main>
