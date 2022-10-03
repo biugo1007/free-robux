@@ -17,7 +17,8 @@ export default function Home() {
         <Header title="Welcome to thefreerobux.com!" />
         <p className="description">
           Get Free Robux by playing mobile game in www.thefreerobux.com
-        </p>
+       Earn Real Robux now
+ </p>
       </main>
 
       <Footer />
